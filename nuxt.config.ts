@@ -12,5 +12,6 @@ export default defineNuxtConfig({
   modules: [
     // https://ionic.nuxtjs.org/
     '@nuxtjs/ionic'
-  ]
+  ],
+  css: ['~/assets/css/ionic.css'],
 });
