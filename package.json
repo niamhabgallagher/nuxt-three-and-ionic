@@ -10,5 +10,9 @@
   "devDependencies": {
     "@nuxtjs/ionic": "^0.8.1",
     "nuxt": "^3.1.0"
+  },
+  "dependencies": {
+    "@ionic/core": "^6.5.1",
+    "@ionic/vue": "^6.5.1"
   }
 }
